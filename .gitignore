@@ -1,0 +1,11 @@
+# Never commit personal documents
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.pdf
+OCI_Ready/
+_preview.jpg
+MyFiles/*
+!MyFiles/PUT-YOUR-PHOTOS-HERE.txt
+__pycache__/

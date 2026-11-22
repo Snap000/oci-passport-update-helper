@@ -1,0 +1,11 @@
+Make one folder here for each person, e.g.  MyFiles\Mom   MyFiles\Dad   MyFiles\Me
+
+Put these phone photos in each person's folder. The NAME of the file matters:
+  Photo.jpg        - face photo (plain light wall, mouth closed, taken in the last 30 days)
+  Signature.jpg    - signature in black pen on white paper
+  NewPassport.jpg  - new passport, opened to the photo page
+
+Then double-click RUN-ME.bat (Windows) or run-me-mac.command (Mac).
+Results appear in each person's OCI_Ready folder. Look at _CHECK_ME.jpg before uploading.
+
+Your files never leave your computer. Nothing is uploaded anywhere.
